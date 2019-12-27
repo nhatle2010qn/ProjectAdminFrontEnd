@@ -1,0 +1,39 @@
+export const GET_DATA_SUCCESS = 'GET_DATA_SUCCESS';
+export const POST_DATA_SUCCESS = 'POST_DATA_SUCCESS';
+export const PUT_DATA_SUCCESS = 'PUT_DATA_SUCCESS';
+export const DELETE_DATA_SUCCESS = 'DELETE_DATA_SUCCESS';
+
+//Products
+export const GET_PRODUCT_DATA = 'GET_PRODUCT_DATA';
+export const DELETE_PRODUCT_DATA = 'DELETE_PRODUCT_DATA';
+export const GET_PRODUCT_BY_ID = 'GET_PRODUCT_BY_ID';
+export const POST_PRODUCT_BY_ID = 'POST_PRODUCT_BY_ID';
+
+//Categories
+export const GET_CATEGORIES_BY_ID = 'GET_CATEGORIES_BY_ID';
+export const GET_CATEGORIES_DATA = 'GET_CATEGORIES_DATA';
+export const POST_CATEGORIES_DATA = 'POST_CATEGORIES_DATA';
+export const DELETE_CATEGORIES_DATA = 'DELETE_CATEGORIES_DATA';
+
+//Brands
+export const GET_BRAND_DATA = 'GET_BRAND_DATA';
+export const DELETE_BRAND_DATA = 'DELETE_BRAND_DATA';
+export const GET_BRAND_BY_ID = 'GET_BRAND_BY_ID';
+export const POST_BRAND_BY_ID = 'POST_BRAND_BY_ID';
+
+//Order
+export const GET_ORDER_DATA = 'GET_ORDER_DATA';
+export const GET_ORDER_DETAIL_DATA = 'GET_ORDER_DETAIL_DATA';
+
+//Chart
+export const GET_CHART_BY_CATEGORY = 'GET_CHART_BY_CATEGORY';
+
+
+//Account
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const GET_CURRENT_USER = 'GET_CURRENT_USER';
+
+
+//User
+export const GET_USER_LIST = 'GET_USER_LIST';
